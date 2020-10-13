@@ -1,3 +1,9 @@
 art_bin_*/
 artbin*.tgz
 reference/reference.fasta.*
+reads-by-chr/
+mapping/*.bam
+mapping/*.bam.bai
+consensus-?/*.vcf.gz
+consensus-?/*.vcf.gz.csi
+consensus-?/*.fastq
