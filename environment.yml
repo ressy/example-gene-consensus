@@ -1,0 +1,11 @@
+# Conda environment file for the analysis.
+# conda env update --file environment.yml
+name: example-gene-consensus
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - samtools
+  - bcftools
+  - bwa
