@@ -9,3 +9,4 @@ dependencies:
   - samtools
   - bcftools
   - bwa
+  - seqtk
